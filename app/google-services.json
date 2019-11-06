@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40054823627",
+    "firebase_url": "https://pwcapp-cd081.firebaseio.com",
+    "project_id": "pwcapp-cd081",
+    "storage_bucket": "pwcapp-cd081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40054823627:android:331b153af0ce80e250994e",
+        "android_client_info": {
+          "package_name": "com.pwc.pwcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40054823627-a152rkpnnand68lgv74ledn1p8qfl39j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pwc.pwcapp",
+            "certificate_hash": "425155d7a298ae1c8b9e301fbb49974b17d183ad"
+          }
+        },
+        {
+          "client_id": "40054823627-r6l7kboslf18rgpdb39tpudmecpbbr1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTmX0ENypfXc_FsZLQeui3RCq3wsWiK_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40054823627-r6l7kboslf18rgpdb39tpudmecpbbr1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
